@@ -16,6 +16,15 @@ clock = pygame.time.Clock()
 FPS = 60
 
 # Caminhos
+
+# Caminhos compatíveis com PyInstaller
+if getattr(sys, 'frozen', False):
+    # Quando rodar no executável
+    BASE_DIR = sys._MEIPASS
+else:
+    # Quando rodar no código normal (PyCharm)
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 ASSETS_DIR = os.path.join("assets")
 IMG_DIR = os.path.join(ASSETS_DIR, "img")
 SOUND_DIR = os.path.join(ASSETS_DIR, "sound")
