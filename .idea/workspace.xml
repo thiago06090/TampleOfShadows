@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f31fd3-84e3-4633-ad1a-85e5bcf2ceea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TempleOfShadows.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/background 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/enemy/walk1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/enemy/walk2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/player/idle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sound/bamboo-forest-level.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sound/royalty-free-rock-n-roll.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="72f31fd3-84e3-4633-ad1a-85e5bcf2ceea" name="Changes" comment="commit da música">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;thiago06090&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/thiago06090/TampleOfShadows.git&quot;,
+    &quot;accountId&quot;: &quot;054d2418-643a-4c6c-8c6b-0c14d93db78e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -89,14 +90,84 @@
       <workItem from="1758540442204" duration="7986000" />
       <workItem from="1758574448777" duration="81000" />
       <workItem from="1758630759810" duration="3205000" />
-      <workItem from="1758819756849" duration="681000" />
+      <workItem from="1758819756849" duration="1268000" />
+      <workItem from="1759232508433" duration="594000" />
+      <workItem from="1759233167849" duration="247000" />
+      <workItem from="1759233573686" duration="99000" />
+      <workItem from="1759233733065" duration="1988000" />
+      <workItem from="1759319613843" duration="302000" />
     </task>
+    <task id="LOCAL-00001" summary="commit do código">
+      <option name="closed" value="true" />
+      <created>1758820762112</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758820762112</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit das imagens">
+      <option name="closed" value="true" />
+      <created>1758820827289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758820827289</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit da música">
+      <option name="closed" value="true" />
+      <created>1758820851285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758820851285</updated>
+    </task>
+    <task id="LOCAL-00004" summary="teste">
+      <option name="closed" value="true" />
+      <created>1759234089063</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759234089063</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit complete" />
+    <MESSAGE value="commit do código" />
+    <MESSAGE value="commit das imagens e música" />
+    <MESSAGE value="commit das imagens" />
+    <MESSAGE value="commit da música" />
+    <MESSAGE value="teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TempleOfShadows$main.coverage" NAME="main Coverage Results" MODIFIED="1758820421349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TempleOfShadows$main.coverage" NAME="main Coverage Results" MODIFIED="1759232528300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

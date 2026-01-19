@@ -1,0 +1,10 @@
+Instruções:
+
+Mover personagem: Setas do teclado
+Pulo: Espaço
+
+
+Objetivo do jogo: Sobreviva 30 segundos contra os inimigos
+
+
+Arquivo .exe está dentro da pasta dist
